@@ -66,4 +66,4 @@ of developers have helped make the HTML5 Boilerplate what it is today.
 ## This is a smaller title
 ### What is this? 
 
-* And what is this?> 
+* And what is this?
