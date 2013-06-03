@@ -61,3 +61,9 @@ you want to write about your project.
 Anyone and everyone is welcome to
 [contribute](/h5bp/html5-boilerplate/blob/master/doc/contribute.md). Hundreds
 of developers have helped make the HTML5 Boilerplate what it is today.
+
+# This is a large title
+## This is a smaller title
+### What is this? 
+
+* And what is this?> 
